@@ -7,7 +7,7 @@
 
 - 🔭 I’m Past working on  **TCS**
 
-- 🌱 I’m currently learning **MEARN STACK**
+- 🌱 I’m currently learning **MEARN📖STACK**
 
 - 💬 Ask me about **MicroService, Spring Boot, spring JPA, Java 8, Sql, Hibernate, HTML, CSS, javaScript**
 
