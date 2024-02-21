@@ -1,5 +1,5 @@
-<img src="http://res.cloudinary.com/dfjc0pkpp/image/upload/v1708545185/vv31msucgtd9skn3chjb.jpg">
-
+/**<img src="http://res.cloudinary.com/dfjc0pkpp/image/upload/v1708545185/vv31msucgtd9skn3chjb.jpg">
+**/
  <h1 align="center">Hi 👋, I'm VimalRaj</h1>
 <h3 align="center">A passionate software developer </h3>
 
