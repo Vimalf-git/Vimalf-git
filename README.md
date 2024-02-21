@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
  <h1 align="center">Hi 👋, I'm VimalRaj</h1>
 <h3 align="center">A passionate software developer </h3>
