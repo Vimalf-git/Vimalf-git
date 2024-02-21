@@ -9,7 +9,7 @@
 - 🌱Currently I'm seeking **MEARN📖STACK**
 
 - 💬 Ask me about ** HTML, CSS, javaScript, ReactJs, NodeJs, ExpressJs, Mongo DB,Spring Boot, spring JPA, Java 8, Sql, Hibernate**
-- 🌐 <a href="https://mycontainer.netlify.app/home" target="blank">KNOW ME</a>
+- 🌐 PORTFOLIO<a href="https://mycontainer.netlify.app/home" target="blank">KNOW ME</a>
 - 📫 How to reach me **selvamvimaldz1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
